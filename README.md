@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @St4ndd
 - 👀 I’m interested in C#, Python and JavaScript
 - 🌱 I’m currently learning C++& Angular & React
+- https://buymeacoffee.com/st4ndd
 
 <!---
 St4ndd/St4ndd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
